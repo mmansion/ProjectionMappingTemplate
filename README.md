@@ -1,4 +1,4 @@
-Projection Mapping Template
+# TouchDesigner Projection Mapping Template
 
 Template that contains a projection-mapping pipeline and a previsualization tool.
 
